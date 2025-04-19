@@ -1,4 +1,3 @@
-# projeto-piloto
-# teste 01 - aplicando mudanças
-colocando mudanças pelo git dev
+# Projeto Piloto
+Testando o commit e o upload de arquivos no Github
 
